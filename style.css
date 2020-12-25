@@ -52,11 +52,11 @@ body {
     background: #e6e6e6;
 }
 
-header {
-    text-align: center;
-    background: #c5a880;
-    padding: 15px 0;
-}
+/*header {*/
+/*    text-align: center;*/
+/*    background: #c5a880;*/
+/*    padding: 15px 0;*/
+/*}*/
 
 .container {
     max-width: 400px;
